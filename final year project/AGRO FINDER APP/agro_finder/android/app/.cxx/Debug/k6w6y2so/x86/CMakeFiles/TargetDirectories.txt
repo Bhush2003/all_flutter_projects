@@ -1,0 +1,2 @@
+D:/flutter projects/final year project/AGRO FINDER APP/agro_finder/android/app/.cxx/Debug/k6w6y2so/x86/CMakeFiles/edit_cache.dir
+D:/flutter projects/final year project/AGRO FINDER APP/agro_finder/android/app/.cxx/Debug/k6w6y2so/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+name: agro_finder
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0-312.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/welcome_screen_image/
+    - assets/login/icons/Group.png
