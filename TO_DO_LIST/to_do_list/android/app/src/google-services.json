@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735968713316",
+    "project_id": "todologinregister",
+    "storage_bucket": "todologinregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735968713316:android:7b9ce4c8830b8382b11d71",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOdYZydkBLhvGRK2A3VtwI8lb48isyIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
